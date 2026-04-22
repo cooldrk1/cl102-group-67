@@ -1,1 +1,4 @@
-
+Name: Nikolai
+Group: CL102
+Favorite OS: Windows
+GitHub Username: cooldrk1
