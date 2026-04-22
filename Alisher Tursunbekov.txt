@@ -1,0 +1,4 @@
+Name: Alisher
+Group: Cl102-group-67
+Favorite OS: Linux
+GitHub Username: Akito140
