@@ -1,4 +1,4 @@
 Name: Alisha
-Group: CL102
+Group:cl102-group-67
 Favorite OS: MacOS
 Username: alisha-3006
